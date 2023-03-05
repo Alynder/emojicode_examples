@@ -26,7 +26,7 @@ wget https://github.com/emojicode/emojicode/releases/download/v1.0-beta.2/Emojic
 && cd .. && rm -r Emojicode-1.0-beta.2-Linux-x86_64
 ```
 This is the output of that command.
-![output](Screenshot from 2023-03-05 12-02-56.png)
+![output](https://github.com/Alynder/emojicode_examples/blob/main/Screenshot%20from%202023-03-05%2012-02-56.png)
 
 
 Now that we have everything installed, lets move on to some code!
