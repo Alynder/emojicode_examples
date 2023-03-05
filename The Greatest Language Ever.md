@@ -128,7 +128,26 @@ The value is 16
 The value is 7 
 The final value is 3 
 ```
-As you can see everything printed out as the variable was updated with the new math.
+As you can see everything printed out as the variable was updated with the new math. You can take this even farther with the many mathmatic emojis avaible. HEre's just a few more operators.
+
+🚮 is your modulous 
+◀ Less than
+▶ Greater than
+◀🙌 less than or equal to 
+▶🙌 greater than or equal to
+
+
+#### Notes I found a long the way
+While I was bouncing around the docs, I did find some interstesting things. One of those is while grabbing input from a user, the skin tone of the ear matters due to some known compiler issues.
+The action for getting user input is this: 🆕🔡▶️👂🏼❗️
+The action for getting and assignin user input is this:  🆕🔡▶️👂🏼❗️ ➡️ inputText
+I was attempting to get that to work but was having some issues with my compiler when I found that. You may also run into some small things here and there so if you do be sure to create and [issue](https://github.com/emojicode/emojicode/issues).
+
+
+
+
+### Final thoughts
+While I could go through so much more, I can assure you the docs behind this amazing code are very expansive. While this is April fools day and the best day to have this type of article I have to admit this is one of the greater languages ever made because it teaches you a lot about programming concepts. I do suggest this for a fun way to teach some of your friends or kids maybe even a classmate who is intersted. Hopefully you have a good and fun filled day this april fools day!
 
 
 
