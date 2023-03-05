@@ -1,6 +1,6 @@
 # The Greatest Language Ever
 
-### How to make a cure program with emojicode
+### How to make a cute program with emojicode
 
 In this article I'll be covering the greatest coding languge to learn how to make anything! It's called Emojicode. This is an open-source programming language that uses emoji characters to represent its syntax, created in 2014 by Theo Belaire.  When working in Emojicode, emojis are used to create variables, functions, and control structures. Since this is a statically typed language variable types need to be declared before use, but it also supports object-oriented concepts like classes and inheritance. This language can be run on every OS as of right now, and is a super fun way to code especailly if you're a non-native english speaker. This is great because pictographic repsrestations can bring us all together and allow us to speak the same language in a way similar to math.
 
